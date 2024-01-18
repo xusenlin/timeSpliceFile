@@ -3,7 +3,7 @@ A library that implements the io.Writer interface and splits files by time.
 
 ## Install
 ```
-go get github.com/xusenlin/timeSpliceFile@v0.0.1-alpha
+go get github.com/xusenlin/timeSpliceFile@v0.0.2-alpha
 ```
 
 
